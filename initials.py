@@ -1,4 +1,3 @@
-
 # File: initials.py
 # Description: Print out my initials.
 # Assignment Number: 2
@@ -10,10 +9,9 @@
 #
 # On my honor, Benjamin Amewu Y., this programming assignment is my own work
 # and I have not provided this code to any other student.
-# Prints my initials in large stylized letters
+
 
 def main():
-  pass # Code goes here
     
     print()
     print("...BAY")
