@@ -10,12 +10,11 @@
 #
 # On my honor, Benjamin Amewu Y., this programming assignment is my own work
 # and I have not provided this code to any other student.
-
+# Prints my initials in large stylized letters
 
 def main():
   pass # Code goes here
-    # Prints my initials in large stylized letters
-
+    
     print()
     print("...BAY")
     print()
@@ -29,8 +28,6 @@ def main():
     print("...BB........BB.........AA.......AA..............Y..........")
     print("...BB........BB...**....AA.......AA..............Y........**")
     print("...BBBBBBBBBB.....**....AA.......AA...**.........Y........**")
-
     print()
-
 
 main()
